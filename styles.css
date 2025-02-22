@@ -9,7 +9,8 @@ body {
 .container {
     width: 50%;
     margin: auto;
-    background: red;
+    background: yellow;
+    margin-top: 20px;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px gray;
@@ -24,6 +25,8 @@ img {
 ul {
     list-style-type: none;
     padding: 0;
+    text-decoration: none;
+    color: black
 }
 
 li {
